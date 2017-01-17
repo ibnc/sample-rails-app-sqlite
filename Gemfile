@@ -1,6 +1,6 @@
 jource 'https://rubygems.org'
 
-gem 'rails', '4.2'
+gem 'rails', '5.0'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
